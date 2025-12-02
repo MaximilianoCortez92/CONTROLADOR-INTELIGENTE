@@ -49,7 +49,8 @@ El flujo de datos sigue un proceso ETL simplificado:
 ### Mapa de Calor (Hotspots)
 ![Mapa de Calor](Docs/mapa_delito.png)
 
-### Conclusiones Clave
+### Conclusiones Clave teniendo en cuenta todos los graficos del looker studio
+
 1. **Delito más frecuente:** Robo simple, seguido de hurto simple.
 2. **Día crítico:** Lunes.
 3. **Hora pico:** 18:00 a 00:00 hs.
