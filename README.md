@@ -39,13 +39,14 @@ El flujo de datos sigue un proceso ETL simplificado:
 > *Nota: Las imágenes a continuación son ilustrativas del dashboard.*
 
 ### Top Localidades y Dependencias
-![Gráfico de Localidades](docs/nombre_de_tu_foto_1.png)
+![Gráfico de Departamentales](docs/grafico_top.png)
 
 * **Hallazgo:** La zona centro de Ciudad Capital es la más afectada, seguida por La Banda.
+
 * **Dependencia:** La Comisaria Comunitaria N° 1 concentra el 25.4% de los delitos.
 
 ### Mapa de Calor (Hotspots)
-![Mapa de Calor](docs/nombre_de_tu_foto_2.png)
+![Mapa de Calor](docs/mapa_delito.png)
 
 ### Conclusiones Clave
 1. **Delito más frecuente:** Robo simple, seguido de hurto simple.
