@@ -31,7 +31,7 @@ El flujo de datos sigue un proceso ETL simplificado:
 
 ### Diagrama de Flujo
 `WhatsApp` ➡️ `Operador/Formulario` ➡️ `Google Sheet (BD)` ➡️ `Looker Studio` ➡️ `Usuario Final`
-
+![Diagrama de flujo](Docs/diagrama.png)
 ---
 
 ## 📊 7. Visualizaciones y Resultados
